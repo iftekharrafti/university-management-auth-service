@@ -1,0 +1,65 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\.b2f1617ea6b7223116f6c7b82a921b63cb5a96a3-audit.json",
+    "files": [
+        {
+            "date": 1685812342340,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-03-06-23-success.log",
+            "hash": "de3fd94d70f3354ae65ef7f6dd391441f9885f97a93e30f871595469279ec945"
+        },
+        {
+            "date": 1685815236854,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-00-success.log",
+            "hash": "e123df30e9947f85688e3ab5c326f14d9971ebd029bd7da307e4d0a1c2baa292"
+        },
+        {
+            "date": 1685853652846,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-10-success.log",
+            "hash": "889da17bbdfbfec9fcf2792b713212d53bd99cb615a02c907f65b5c55620692a"
+        },
+        {
+            "date": 1685855644542,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-11-success.log",
+            "hash": "f648730c1bddc3cecfed2712d5d64fc19ae0cd6256ee121a41f8e6673a2999b7"
+        },
+        {
+            "date": 1685869039875,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-14-success.log",
+            "hash": "190250b1e58dd82bc6b08011dc8953e3130baed947025f7f870d2aa227f28536"
+        },
+        {
+            "date": 1685890877110,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-21-success.log",
+            "hash": "ed3cca9cfb5613d057a7b282847254558620ff839cae29fde289d7d6b2ff919b"
+        },
+        {
+            "date": 1685899457189,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-23-success.log",
+            "hash": "468b793e544ab561558b3061b5d8ecbb79f2b00930d57d9c3afbcec8794d57f3"
+        },
+        {
+            "date": 1685901824861,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-00-success.log",
+            "hash": "9c2ea044601c86c5e7509fcd3f7ac2f6a13a5457ecbb63e4cbaccc280741fb7e"
+        },
+        {
+            "date": 1685942759453,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-11-success.log",
+            "hash": "d930a666acbb470d86393956e6e4d4e8621d4e55628f6a43150210fc83156640"
+        },
+        {
+            "date": 1686024393695,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-10-success.log",
+            "hash": "edd4c060907237fdc27e94af8d75c1261b8c3c619aa220df45098d905e3b7f79"
+        },
+        {
+            "date": 1686029580434,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-11-success.log",
+            "hash": "27cb215a1b9ee63c23cb49f2724fa687eb3bace032c7eb29bbdfff83b27dbd6b"
+        }
+    ],
+    "hashType": "sha256"
+}

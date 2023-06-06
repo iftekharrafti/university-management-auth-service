@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\errors\\.6ff6fbd04504d03449120098d39619a2b4b7ae96-audit.json",
+    "files": [
+        {
+            "date": 1685806480228,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-03-21-error.log",
+            "hash": "e73b964bd3bcaa5f98e5de6db3a5abf7185bb7bfc2495536f23a9d880d134e83"
+        }
+    ],
+    "hashType": "sha256"
+}
