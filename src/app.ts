@@ -11,9 +11,9 @@ app.use(express.urlencoded({ extended: true }));
 // Application routes
 
 import globalErrorHandler from './app/middlewares/globalErrorHandler';
-import { UserRoutes } from './app/modules/user/user.route';
+import routes from './app/routes';
 
-app.use('/api/v1/users', UserRoutes);
+app.use('/api/v1', routes);
 
 // app.get('/', async(req: Request, res: Response, next: NextFunction) => {
 //   console.log(x)

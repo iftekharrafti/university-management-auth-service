@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\.a9e3732b1bf76947332623f6ec8bc400586cb25f-audit.json",
-    "files": [
-        {
-            "date": 1685806480187,
-            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-03-21-success.log",
-            "hash": "7382196b25d823bc1c6e74180ccd098ecd8bb5ff589aa385a8eb4778295edb14"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\.a9e3732b1bf76947332623f6ec8bc400586cb25f-audit.json",
+  "files": [
+    {
+      "date": 1685806480187,
+      "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-03-21-success.log",
+      "hash": "7382196b25d823bc1c6e74180ccd098ecd8bb5ff589aa385a8eb4778295edb14"
+    }
+  ],
+  "hashType": "sha256"
 }
