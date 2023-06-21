@@ -6,16 +6,6 @@
     "auditLog": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\.b2f1617ea6b7223116f6c7b82a921b63cb5a96a3-audit.json",
     "files": [
         {
-            "date": 1686061250567,
-            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-20-success.log",
-            "hash": "b90c49e231043a3386b31d103da4076769be6ab552046702495bc79869b3e56d"
-        },
-        {
-            "date": 1686063934756,
-            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-21-success.log",
-            "hash": "c0e28518e5c0d59f9e2826fae1d76839920fdb4bd43a935df5e8c50c0443a76b"
-        },
-        {
             "date": 1686491665608,
             "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-11-06-19-success.log",
             "hash": "b462f03b514f73e500a2f170564d937ca34523b461fd45cd050424a8c039ad2c"
@@ -74,6 +64,16 @@
             "date": 1687266993135,
             "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-20-06-19-success.log",
             "hash": "8a9fa274c41cbcc0b5e140ad0684e97bcad9089cb8331e3b8b33a82a60dde62a"
+        },
+        {
+            "date": 1687274413797,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-20-06-21-success.log",
+            "hash": "9f13bba7e6d6d0112f16a534d3b5e2881d366599a8432c3709437eb78991e436"
+        },
+        {
+            "date": 1687338056996,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-21-06-15-success.log",
+            "hash": "e80a49a7027144d6a0c578f0c5441afb1c771cbc9c43a7c9a06f274d5b4d70ab"
         }
     ],
     "hashType": "sha256"

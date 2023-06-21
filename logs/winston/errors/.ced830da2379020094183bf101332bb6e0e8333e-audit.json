@@ -6,16 +6,6 @@
     "auditLog": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\errors\\.ced830da2379020094183bf101332bb6e0e8333e-audit.json",
     "files": [
         {
-            "date": 1686061250646,
-            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-06-20-error.log",
-            "hash": "ad17be4c975f0d2d9a033f5426e35f608187599c64ef78eff4a659e16c5d09b5"
-        },
-        {
-            "date": 1686063934796,
-            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-06-06-21-error.log",
-            "hash": "52c4ff24a3d3d4e62113b5ff4e9979ebdc77afb33eee7000be1af0f70c7a161a"
-        },
-        {
             "date": 1686491665722,
             "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-11-06-19-error.log",
             "hash": "c6886a20015f3d3d303cd22e06575b015dd48ef674182697404da5a194fd3f14"
@@ -79,6 +69,16 @@
             "date": 1687266993190,
             "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-20-06-19-error.log",
             "hash": "9c099cba14f73248a6e60248250daf989dfd1a17c8d8d126a71037ee4a2f8aff"
+        },
+        {
+            "date": 1687274413836,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-20-06-21-error.log",
+            "hash": "591fcd389583e5f6944b48d73d1548d202dde6da261354deea21e4746ad32b7a"
+        },
+        {
+            "date": 1687338057130,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-21-06-15-error.log",
+            "hash": "1b3e30d9205e3a62e25fadfa69584b9736417caf0f6bfc3c06ffcdf5f85b464e"
         }
     ],
     "hashType": "sha256"
