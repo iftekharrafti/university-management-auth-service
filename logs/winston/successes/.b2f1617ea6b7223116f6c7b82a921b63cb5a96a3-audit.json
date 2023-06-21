@@ -1,0 +1,80 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\.b2f1617ea6b7223116f6c7b82a921b63cb5a96a3-audit.json",
+    "files": [
+        {
+            "date": 1686491665608,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-11-06-19-success.log",
+            "hash": "b462f03b514f73e500a2f170564d937ca34523b461fd45cd050424a8c039ad2c"
+        },
+        {
+            "date": 1686492173113,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-11-06-20-success.log",
+            "hash": "8533a19aa4e2c9c6caafb6fccba770f21bf6dd53860ac840f781a8331bb205f1"
+        },
+        {
+            "date": 1686496446699,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-11-06-21-success.log",
+            "hash": "e5d209aff93a677597224cab92bbb80fd9fa42cf18dda7850dc014073efa8b8a"
+        },
+        {
+            "date": 1686500807386,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-11-06-22-success.log",
+            "hash": "3a8347168a3e22b13c05b44c26e27b2663fbe1a07ad7cd1a0f3313adfe3ee124"
+        },
+        {
+            "date": 1687080468837,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-15-success.log",
+            "hash": "d7289b4027f0b756163fba9633b7ac0c975d6d7edbf1897380183432a1cf8f0d"
+        },
+        {
+            "date": 1687083811159,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-16-success.log",
+            "hash": "502988332356da56e1252bf799fa845b1a30d226ff3524734d9820e2ccab5f81"
+        },
+        {
+            "date": 1687086772289,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-17-success.log",
+            "hash": "a2ebc1a9723007c5a382f7c9f07cb98a22c38810ba7fcc923b3296f802672a34"
+        },
+        {
+            "date": 1687095401103,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-19-success.log",
+            "hash": "78744b3d840fdcb45f7bcfed5b5270724945d54e29f3d879cd11cf18de45101a"
+        },
+        {
+            "date": 1687097135248,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-20-success.log",
+            "hash": "a90a2219d7ef603c88dda14fbc24fac13f995993a675748c2b9743c468653757"
+        },
+        {
+            "date": 1687102905064,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-21-success.log",
+            "hash": "d91b74ca156b6997cbfb879a6b66cb5dd9e3068201592aba8404532877efbef1"
+        },
+        {
+            "date": 1687263952840,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-20-06-18-success.log",
+            "hash": "be3c6eea5ca9af3a807bdf4549bb1d900f5d6464f1d43e52679db07730feb737"
+        },
+        {
+            "date": 1687266993135,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-20-06-19-success.log",
+            "hash": "8a9fa274c41cbcc0b5e140ad0684e97bcad9089cb8331e3b8b33a82a60dde62a"
+        },
+        {
+            "date": 1687274413797,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-20-06-21-success.log",
+            "hash": "9f13bba7e6d6d0112f16a534d3b5e2881d366599a8432c3709437eb78991e436"
+        },
+        {
+            "date": 1687338056996,
+            "name": "F:\\nij_work\\jhankar_vai\\Next-level-course\\Mission-3\\University-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-21-06-15-success.log",
+            "hash": "e80a49a7027144d6a0c578f0c5441afb1c771cbc9c43a7c9a06f274d5b4d70ab"
+        }
+    ],
+    "hashType": "sha256"
+}
