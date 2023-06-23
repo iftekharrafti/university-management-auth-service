@@ -1,0 +1,1 @@
+Wed Jun 21 2023 16:12:20 [PHU] error: AcademicDepartment validation failed: academicFaculty: Cast to ObjectId failed for value "Business administration" (type string) at path "academicFaculty" because of "BSONError"
