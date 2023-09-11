@@ -13,11 +13,7 @@ const validateRequest =
       });
       return next();
     } catch (err) {
-      // res.status(400).json({
-      //   next(err)
-      // })
       next(err);
-      // throw new Error('Failed to create user')
     }
   };
 export default validateRequest;

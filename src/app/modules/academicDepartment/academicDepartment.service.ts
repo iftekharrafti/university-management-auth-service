@@ -26,6 +26,7 @@ const getAllDepartment = async (
 
   const andConditions = [];
 
+  // Search value
   if (searchTerm) {
     andConditions.push({
       $or: academicDepartmentSearchableFields.map(field => ({
@@ -37,6 +38,7 @@ const getAllDepartment = async (
     });
   }
 
+  // Filters
   if (Object.keys(filtersData).length) {
     andConditions.push({
       $and: Object.entries(filtersData).map(([field, value]) => ({
