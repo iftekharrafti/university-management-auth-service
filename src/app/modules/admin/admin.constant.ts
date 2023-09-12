@@ -11,10 +11,10 @@ export const adminSearchableFields = [
 ];
 
 export const adminFilterableFields = [
-  'searchTerm',
-  'id',
-  'gender',
-  'bloodGroup',
   'email',
   'contactNo',
+  'emergencyContactNo',
+  'name.firstName',
+  'name.lastName',
+  'name.middleName',
 ];

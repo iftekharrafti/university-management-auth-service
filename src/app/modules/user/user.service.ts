@@ -1,7 +1,11 @@
 import config from '../../../config/index';
 import { User } from './user.model';
 import { IUser } from './user.interface';
-import { generateFacultyId, generateStudentId } from './user.utils';
+import {
+  generateAdminId,
+  generateFacultyId,
+  generateStudentId,
+} from './user.utils';
 import { IStudent } from '../student/student.interface';
 import { AcademicSemester } from '../academicSemester/academicSemester.model';
 import mongoose from 'mongoose';
@@ -90,7 +94,7 @@ const createFaculty = async (
 ): Promise<IUser | null> => {
   // default password
   if (!user.password) {
-    user.password = config.default_student_pass as string;
+    user.password = config.default_faculty_pass as string;
   }
 
   // set role
@@ -150,7 +154,7 @@ const createAdmin = async (
 ): Promise<IUser | null> => {
   // default password
   if (!user.password) {
-    user.password = config.default_student_pass as string;
+    user.password = config.default_admin_pass as string;
   }
 
   // set role
@@ -160,8 +164,8 @@ const createAdmin = async (
   const session = await mongoose.startSession();
   try {
     session.startTransaction();
-    // generate Faculty id
-    const id = await generateFacultyId();
+    // generate Admin id
+    const id = await generateAdminId();
     user.id = id;
     admin.id = id;
 
@@ -169,11 +173,11 @@ const createAdmin = async (
     const newAdmin = await Admin.create([admin], { session });
 
     if (!newAdmin.length) {
-      throw new ApiError(httpStatus.BAD_REQUEST, 'Failed to create faculty');
+      throw new ApiError(httpStatus.BAD_REQUEST, 'Failed to create Admin');
     }
 
     // set student --> _id into user user.student
-    user.faculty = newAdmin[0]._id;
+    user.admin = newAdmin[0]._id;
 
     const newUser = await User.create([user], { session });
     if (!newUser.length) {
@@ -193,14 +197,7 @@ const createAdmin = async (
   // user --> student --> academicSemester, academicDepartment, academicFaculty
 
   if (newUserAllData) {
-    newUserAllData = await User.findOne({ id: newUserAllData.id }).populate({
-      path: 'admin',
-      populate: [
-        {
-          path: 'academicAdmin',
-        },
-      ],
-    });
+    newUserAllData = await User.findOne({ id: newUserAllData.id });
   }
   return newUserAllData;
 };

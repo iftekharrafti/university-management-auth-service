@@ -71,7 +71,7 @@ export const generateAdminId = async (): Promise<string> => {
 
   // increment by 1
   let incrementedId = (parseInt(currentId) + 1).toString().padStart(5, '0');
-  incrementedId = `F-${incrementedId}`;
+  incrementedId = `A-${incrementedId}`;
 
   return incrementedId;
 };

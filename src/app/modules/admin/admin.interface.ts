@@ -24,8 +24,20 @@ export type IAdmin = {
 
 export type AdminModel = Model<IAdmin, Record<string, unknown>>;
 
+export type IAdminFilters = {
+  searchTerm?: string;
+  id?: string;
+  email?: string;
+  contactNo?: string;
+  emergencyContactNo?: string;
+  gender?: 'male' | 'female';
+  bloodGroup?: 'A+' | 'A-' | 'B+' | 'B-' | 'AB+' | 'AB-' | 'O+' | 'O-';
+  managementDepartment?: string;
+  designation?: string;
+};
+
 // {
-//   "faculty": {
+//   "admin": {
 //     "name": {
 //       "firstName": "raj",
 //       "lastName": "khan"
@@ -39,6 +51,6 @@ export type AdminModel = Model<IAdmin, Record<string, unknown>>;
 //     "bloodGroup": "A+",
 //     "presentAddress": "fdskaljf",
 //     "permanentAddress" : "s;dkfjakjfa",
-//     "academicFaculty": '6491c40a2f381fda15c7caa9',
+//     "department": "busness"
 //   }
 // }
