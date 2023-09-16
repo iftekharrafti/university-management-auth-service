@@ -148,6 +148,7 @@ const createFaculty = async (
   }
   return newUserAllData;
 };
+
 const createAdmin = async (
   admin: IAdmin,
   user: IUser
